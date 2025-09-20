@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Bytes and Bits and Nibbles, Oh my!
 ---
 
